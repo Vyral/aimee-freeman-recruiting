@@ -1,8 +1,8 @@
 ---
 youtube_code:
 excerpt: >-
-  Being on a team that facilitates individual growth as well as team building is
-  so important in the real estate world. Learn why our team is just what you're
+  Being on a team that facilitates individual growth and team building is so
+  important in the real estate world. Learn why our team is just what you're
   looking for.
 enclosure:
 pullquote:
