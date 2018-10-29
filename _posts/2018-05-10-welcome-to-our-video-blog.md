@@ -2,7 +2,7 @@
 youtube_code:
 excerpt: >-
   It's important to be on a team that facilitates individual growth and team
-  building in real estate. Learn how we'll give you the tools to succeed.
+  building in real estate. Learn how our systems and tools can benefit you.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
