@@ -1,11 +1,11 @@
 ---
-youtube_code: SFFy_drFrZs
+youtube_code:
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /siteicon.png
 layout: post
 title: Welcome To My Video Blog
@@ -23,17 +23,17 @@ Are you:
 * Looking to begin a career in real estate?
 * Already enrolled in real estate classes?
 * Already an agent, but not currently doing as much business as you would like?
-* An agent who just wants to gain more from your career while using proper leverage to work less?&nbsp;
+* An agent who just wants to gain more from your career while using proper leverage to work less? 
 
-I have good news! Aimee & Co. is looking to add to our team! Here are a few reasons that agents WANT to be a part of our team.&nbsp;
+I have good news! Aimee & Co. is looking to add to our team! Here are a few reasons that agents WANT to be a part of our team. 
 
 We cultivate a productive and incredibly fun work culture with successful people that you'll enjoy working with. Our agents never feel alone because they have an entire team supporting them. We even have monthly team-only events!
 
 We shine because we provide direction, support, systems, accountability, a training plan, and coaching to our team. Our team leader is a real estate coach with one of the most elite coaching groups. This means that our agents have cutting-edge information, tools, and training at their fingertips.
 
-We allow our agents to focus on the 20% of the business that they do best: selling real estate! We have support staff to do the other 80% that agents shouldn't be spending their time on if they want to achieve maximum success.&nbsp;
+We allow our agents to focus on the 20% of the business that they do best: selling real estate! We have support staff to do the other 80% that agents shouldn't be spending their time on if they want to achieve maximum success. 
 
-We stay in touch with our clients and hold several appreciation events for them throughout the year. The best compliment that you could receive is a referral, especially from a pleased past client. Therefore, one of our primary focuses is to establish lifelong clients and raving fans by continuing to show them what they mean to us, long after the sale.&nbsp;
+We stay in touch with our clients and hold several appreciation events for them throughout the year. The best compliment that you could receive is a referral, especially from a pleased past client. Therefore, one of our primary focuses is to establish lifelong clients and raving fans by continuing to show them what they mean to us, long after the sale. 
 
 We offer LEADS! Our team has more leads than we can honestly handle. We currently have over 10,000 people in our database, and we add around 500 new leads to it monthly. Not only do we have the leads, we teach our agents how to convert them.
 
