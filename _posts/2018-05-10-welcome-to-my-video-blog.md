@@ -6,7 +6,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /siteicon.png
+youtube_alternate_image: /Welcome.jpg
 layout: post
 title: Welcome To My Video Blog
 date: 2018-05-10 00:00:00
