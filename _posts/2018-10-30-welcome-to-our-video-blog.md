@@ -11,7 +11,7 @@ use_youtube_image: false
 youtube_alternate_image: /Welcome.jpg
 layout: post
 title: Welcome To Our Video Blog
-date: 2018-05-10 00:00:00
+date: 2018-10-30 00:00:00
 tags:
   - Buyer Prospects
   - Transaction Management
