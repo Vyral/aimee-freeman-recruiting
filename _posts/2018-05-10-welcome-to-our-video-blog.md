@@ -2,7 +2,7 @@
 youtube_code:
 excerpt: >-
   Being on a team that facilitates personal growth and team building is crucial
-  in real estate. Learn how we can equip you, as an agent, with more.
+  in real estate. Learn how we'll equip you
 enclosure:
 pullquote:
 enclosure_type: video/mp4
