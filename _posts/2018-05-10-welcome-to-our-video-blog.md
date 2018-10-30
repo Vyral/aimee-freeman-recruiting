@@ -1,8 +1,8 @@
 ---
 youtube_code:
 excerpt: >-
-  Being on a team that facilitates individual growth and team building is
-  crucial in real estate. Learn how our systems and tools can benefit you.
+  Being on a team that facilitates personal growth and team building is crucial
+  in real estate. Learn how we can equip you, as an agent, with more.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
