@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Your Internet Leads Haven’t Worked—And What You Can Do to Fix That
-date: 2019-03-19 18:29:05
+title: Why Your Internet Leads Haven’t Worked—AND How You Can Turn Them Into GOLD
+date: 2019-03-19 18:29:00
 tags:
   - Buyer Prospects
   - Lead Generation
@@ -28,9 +28,9 @@ youtube_code: yGW_3DzvPI0
 
 “Internet leads suck.”
 
-How many times have you heard those words or said them yourself? I see this kind of sentiment everywhere, and it’s not the internet leads that don’t work—it’s the mindset of the agent who's calling those leads that doesn’t work. How do I know this? Last year, more than a third of my team’s business came from two main sources of internet leads.&nbsp;
+How many times have you heard those words or said them yourself? I see this kind of sentiment everywhere, and it’s not the internet leads that don’t work—it’s the mindset of the agent who's calling those leads that doesn’t work. How do I know this? Last year, more than a third of my team’s business came from two main sources of internet leads. 
 
-If you’re going to spend your time and money working internet leads, you need to set yourself up for success, and there are certain steps you need to take to do this.&nbsp;
+If you’re going to spend your time and money working internet leads, you need to set yourself up for success, and there are certain steps you need to take to do this. 
 
 {% include pullquote.html %}
 
