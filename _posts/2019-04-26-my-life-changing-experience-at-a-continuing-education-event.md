@@ -22,13 +22,13 @@ youtube_code: 4arSy3Bjo_M
 
 {% include youtube.html %}
 
-As those of you who follow my social media accounts know by not, I’ve been posting a lot about the closing table event I attended between nine months and a year ago. **When I saw the level of experience people who were attending had, I told myself that I wanted to be a part of it at some point, too.&nbsp;**
+As those of you who follow my social media accounts know by now, I’ve been posting a lot about the closing table event I attended between nine months and a year ago. **When I saw the level of experience people who were attending had, I told myself that I wanted to be a part of it at some point, too.&nbsp;**
 
 After thinking about where my business started just five years ago and how fast it’s grown since then, I finally decided to jump off the ledge and go to the event.
 
 When I finally went, my mind was blown. **This wasn’t another event to learn how to do more open houses or to talk about doing more business—this was far above that.**
 
-Going to the closing table event didn’t really give me a ton of information to take home about building my real estate business, but it did open my eyes to all the other possibilities that are &nbsp;laid out before me.
+Going to the closing table event didn’t really give me a ton of information to take home about building my real estate business, but it did open my eyes to all the other possibilities that are laid out before me.
 
 On the first day, an agent got up and spoke, telling us how he makes $1 million per month. Can you even wrap your brain around what $1 million a month would even look like?
 
