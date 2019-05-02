@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My Life-Changing Experience at a Continuing Education Event
-date: 2019-04-26 19:02:45
+title: 'This Is WHY I Continue to Attend Real Estate Events, Even After 21 Years'
+date: 2019-04-26 19:02:00
 tags:
 excerpt: >-
   Stepping out of your comfort zone to pursue higher education for your career
@@ -17,12 +17,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 4arSy3Bjo_M
+youtube_code: Ab8Qulti-yg
 ---
 
 {% include youtube.html %}
 
-As those of you who follow my social media accounts know by now, I’ve been posting a lot about the closing table event I attended between nine months and a year ago. **When I saw the level of experience people who were attending had, I told myself that I wanted to be a part of it at some point, too.&nbsp;**
+As those of you who follow my social media accounts know by now, I’ve been posting a lot about the closing table event I attended between nine months and a year ago. **When I saw the level of experience people who were attending had, I told myself that I wanted to be a part of it at some point, too. **
 
 After thinking about where my business started just five years ago and how fast it’s grown since then, I finally decided to jump off the ledge and go to the event.
 
@@ -32,11 +32,11 @@ Going to the closing table event didn’t really give me a ton of information to
 
 On the first day, an agent got up and spoke, telling us how he makes $1 million per month. Can you even wrap your brain around what $1 million a month would even look like?
 
-The attendees were all people who started with just an idea or a passion, which made me reflect on my own real estate business. I learned from them that there are so many things that we can do to take our business to the next level.&nbsp;
+The attendees were all people who started with just an idea or a passion, which made me reflect on my own real estate business. I learned from them that there are so many things that we can do to take our business to the next level. 
 
 Honestly, I’m still just trying to process all of what I took in. I don’t know what road I’ll go down next, but I do feel as though, one year from today, my business is going to look completely different from how it does now.
 
-Many people think that they can just get their real estate license and build a business without ever doing any additional training, coaching, mentorship, or education. And maybe a big vision isn’t what some people want for their business.&nbsp;
+Many people think that they can just get their real estate license and build a business without ever doing any additional training, coaching, mentorship, or education. And maybe a big vision isn’t what some people want for their business. 
 
 {% include pullquote.html %}
 
