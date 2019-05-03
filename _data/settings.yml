@@ -5,11 +5,11 @@ show_custom_links: true
 custom_links:
   - title: About
     url: /about/
-  - title: Events
+  - title: 
     url: #
-  - title: Free Strategy Call
+  - title: 
     url: 
-  - title: Free Newsletter
+  - title: 
     url: 
 
 
