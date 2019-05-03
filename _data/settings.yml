@@ -5,13 +5,6 @@ show_custom_links: true
 custom_links:
   - title: About
     url: /about/
-  - title: 
-    url: #
-  - title: 
-    url: 
-  - title: 
-    url: 
-
 
 client:
   name: Aimee Freeman
